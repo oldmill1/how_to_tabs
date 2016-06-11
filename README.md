@@ -12,3 +12,7 @@ How To Tabs
 
 To run the build, type `node build.js`
 
+1. Install jake: `npm instal jake -g`
+2. Run jake: `jake`
+
+
