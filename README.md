@@ -1,7 +1,6 @@
 How To Tabs
 
-To try to get this working on your machine:
---
+### How to Run the How To Tabs: ###
 
 1. Install Node Js
 2. Install Git
@@ -12,3 +11,4 @@ To try to get this working on your machine:
 6. Change oto the project directory: `cd how_to_tabs`
 
 To run the build, type `node build.js`
+
